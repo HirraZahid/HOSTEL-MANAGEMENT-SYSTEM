@@ -1,1 +1,2 @@
 # HOSTEL-MANAGEMENT-SYSTEM
+The Hostel Management System is a meticulously designed project that follows the Waterfall model for project management. It encompasses various essential artifacts such as the Software Requirements Specification (SRS), Project Charter, and crucial diagrams including the Entity-Relationship Diagram (ERD), Class Diagram, Use Case Diagram, Data Flow Diagram (DFD), Activity Diagram, and Sequence Diagram. This comprehensive system effectively manages hostel-related operations with a structured approach.
